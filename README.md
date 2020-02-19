@@ -1,6 +1,6 @@
 # React Native Init Template Using Typescript
 
-This project is a further development project base on Expo cli
+This project is a further development project base on Expo Development Tools
 
 ### Prerequisites
 
